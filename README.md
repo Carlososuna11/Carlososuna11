@@ -12,7 +12,6 @@ soy solo un chico al que le gusta el anime, los videojuegos y le apasiona la tec
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://www.codewars.com/assets/logos/logo-61192cf7c75904d495e7ad69695fbf0bffd965bc3e17ac60f6c6b475304db09d.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 ## My activities
 
 <a href="https://github.com/Carlososuna11/github-readme-stats">
