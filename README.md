@@ -1,5 +1,5 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Carlososuna11" alt="Carlososuna11" /> </p>
-📚 Estudiante de Ingenieria Informática
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Carlososuna11" alt="Carlososuna11" />  <img src="https://www.codewars.com/users/Carlososuna11/badges/small" /></p> 
+📚 Estudiante de Ingenieria Informática!
 
 soy solo un chico al que le gusta el anime, los videojuegos y le apasiona la tecnología, pero realmente vago.
 `¯\_(ツ)_/¯`
