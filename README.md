@@ -18,7 +18,7 @@ soy solo un chico al que le gusta el anime, los videojuegos y le apasiona la tec
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Carlososuna11&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
 <a href="https://github.com/carlososuna11/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlososuna11&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlososuna11&layout=compact&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
 
 ## Otros perfiles
