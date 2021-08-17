@@ -17,7 +17,9 @@ soy solo un chico al que le gusta el anime, los videojuegos y le apasiona la tec
 <a href="https://github.com/Carlososuna11/github-readme-stats">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Carlososuna11&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
-
+<a href="https://github.com/Carlososuna11/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlososuna11&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+</a>
 
 ## Otros perfiles
 <a href = "https://www.codewars.com/users/Carlososuna11">
