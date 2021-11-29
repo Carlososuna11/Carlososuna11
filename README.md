@@ -1,8 +1,7 @@
 <p align="left"> <!--- <img src="https://komarev.com/ghpvc/?username=Carlososuna11" alt="Carlososuna11" /> --><img src="https://www.codewars.com/users/Carlososuna11/badges/small" /></p> 
 📚 Estudiante de Ingenieria Informática!
 
-soy solo un chico al que le gusta el anime, los videojuegos y le apasiona la tecnología, pero realmente vago.
-`¯\_(ツ)_/¯`
+soy solo un chico al que le gusta el anime, los videojuegos y le apasiona la tecnología.
 ## Lo que estoy aprendiendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
