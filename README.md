@@ -1,26 +1,54 @@
-<p align="left"> <!--- <img src="https://komarev.com/ghpvc/?username=Carlososuna11" alt="Carlososuna11" /> --><img src="https://www.codewars.com/users/Carlososuna11/badges/small" /></p> 
-📚 Estudiante de Ingenieria Informática!
+# Hi there, I'm Carlos Osuna 👋
+### Founder Partner & CTO at [Innovares](https://innovares.dev) | Backend Architecture Specialist
 
-soy solo un chico al que le gusta el anime, los videojuegos y le apasiona la tecnología.
-## Lo que estoy aprendiendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-original.svg" width="50">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-## My activities
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-HealthTech-0078D4?style=for-the-badge&logo=healthos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
 
-<a href="https://github.com/Carlososuna11/github-readme-stats">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Carlososuna11&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
-</a>
- <a href="https://github.com/carlososuna11/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlososuna11&layout=compact&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
-</a>
+---
 
-## Otros perfiles
-<a href = "https://www.codewars.com/users/Carlososuna11">
-  <img src="https://www.codewars.com/assets/logos/logo-61192cf7c75904d495e7ad69695fbf0bffd965bc3e17ac60f6c6b475304db09d.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
- </a>
+## 🚀 Building the Future of HealthTech at [Innovares](https://innovares.dev)
+I lead the technical vision at **Innovares**, a firm dedicated to software consultancy and development with a focus on AI, automation, and cloud management. Our mission is to transform business processes through innovative and scalable solutions that generate a real impact.
+
+### 🛡️ Specialized Solutions
+* **Artificial Intelligence (AI):** Machine learning models, NLP, and predictive data systems.
+* **Process Automation:** Digital workflows and bots designed to optimize resources and reduce errors.
+* **Cloud Architecture:** Secure deployment and cost optimization in AWS, Azure, and Google Cloud.
+* **Modern Web Development:** Fast, scalable web applications and seamless API integrations.
+
+### 📈 Core Values & Approach
+* **Applied Innovation:** Technology designed to solve real-world problems.
+* **Scalability & Sustainability:** Architectures built to grow sustainably over time.
+* **Technical Quality:** Robust code using international best practices and standards.
+* **Trust & Transparency:** Clear communication and documented deliverables.
+
+---
+
+## 🛠️ Technical Arsenal
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,postgres,aws,docker,linux,git,vscode" />
+</p>
+
+---
+
+## 📊 Performance Metrics
+<!-- Switched to a mirror instance as the public instance is experiencing downtime (503) -->
+<p align="center">
+  <img width="490" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Carlososuna11&theme=midnight-purple&show_icons=true&hide_border=false" />
+</p>
+
+---
+
+## 🔗 Connect with Innovares
+* **Official Site:** [innovares.dev](https://innovares.dev)
+* **Philosophy:** *Haz que la tecnología trabaje para ti*.
+
+<!-- 
+Footer image removed as the service (capsule-render) is currently returning 402 Payment Required errors.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0D1117&height=100&section=footer" />
+</p> 
+-->
